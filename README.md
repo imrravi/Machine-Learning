@@ -1,6 +1,6 @@
-# Algorithm Comparison
+# Machine Learning Assignment
 
-This repository contains Assignment 1 from the *Data-Driven Machine Learning* course on Internshala.
+This repository contains machine learning assignments from the *Data-Driven Machine Learning* course on Internshala.
 
 ## 📘 Assignment 1: Algorithm Comparison
 
