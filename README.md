@@ -1,21 +1,51 @@
-# Machine Learning Assignment
+# Machine Learning Assignments
 
-This repository contains machine learning assignments from the *Data-Driven Machine Learning* course on Internshala.
+This repository contains a collection of machine learning assignments and projects completed as part of the *Data-Driven Machine Learning* course on Internshala.
 
-## 📘 Assignment 1: Algorithm Comparison
+Each assignment focuses on practical applications of different ML techniques including supervised and unsupervised learning, algorithm comparison, clustering, and predictive modeling.
 
-**Objective:**  
-Compare and understand the suitability of common machine learning algorithms for different dataset scenarios.
+---
 
-**Algorithms Covered:**
+## 📁 Folder Structure
+
+### `1. Algorithm Comparison`
+Understand the differences between key classification algorithms:
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
 - Decision Tree
 - Support Vector Machine (SVM)
 
-**Structure:**
-1. **Algorithm Overview** – How each algorithm works, with strengths and limitations.
-2. **Application Scenarios** – Choosing the best algorithm for various dataset types.
+Includes:
+- Overview of each algorithm
+- Comparison based on real-world scenarios
 
-📄 Deliverable: PDF report comparing these algorithms and explaining their application.
+---
+
+### `2. K-Means Clustering`
+Explore applications and limitations of the K-Means clustering algorithm.
+
+Includes:
+- Use case analysis (e.g., customer segmentation)
+- Benefits of clustering
+- Challenges and when not to use K-Means
+
+---
+
+### `3. Airbnb & Customer Churn`
+Two projects focused on real-world predictions:
+- **Airbnb Price Prediction (Regression)**
+- **Customer Churn Prediction (Classification)**
+
+Includes:
+- Data preprocessing
+- Model development and evaluation
+- Insights and predictions (churn project)
+
+---
+
+## 📦 Tools & Libraries
+- Python (Jupyter Notebooks)
+- pandas, numpy, scikit-learn, seaborn, matplotlib
+
+---
 
